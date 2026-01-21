@@ -17,7 +17,7 @@ UI/UX & Design: Figma
 
 Other Tools: FMOD, Git/GitHub
 
-$$ 📫 Contact
+## 📫 Contact
 
 Portfolio: prasanna12portfolio.netlify.app
 
