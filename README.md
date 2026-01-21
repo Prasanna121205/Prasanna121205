@@ -1,4 +1,8 @@
-## Hi there 👋
+## Prasanna Parimal Sawant 🎮
+
+Aspiring Game Developer | 3D & Gameplay Programmer | Game Designer
+
+Hi! I’m Prasanna, a passionate game developer with hands-on experience in creating interactive 3D games and immersive gameplay experiences. I specialize in combining programming, 3D modeling, and design to bring ideas to life.
 
 <!--
 **Prasanna121205/Prasanna121205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
