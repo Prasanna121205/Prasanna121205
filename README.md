@@ -1,4 +1,5 @@
-## Prasanna Parimal Sawant 🎮
+## Hi there!👋🏻
+Prasanna Parimal Sawant 🎮
 
 Aspiring Game Developer | 3D & Gameplay Programmer | Game Designer
 
